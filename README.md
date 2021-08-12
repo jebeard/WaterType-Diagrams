@@ -4,8 +4,8 @@ Created by Jack Beard, 12/08/2021
 R project and input excel sheet to implement water quality diagrams from the paper "Four new ecohydrologically relevant water quality diagrams" (Schot et al.)
 
 # Work flow:
-1. Copy this folder to a directory of your choosing
-2. Open Excel in "data" folder (input_data.xlsx)
+1. Download this folder and unzip into a directory of your choosing
+2. Open Excel sheet in the "data" folder (input_data.xlsx)
 3. Insert your own data as follows:
 	a. Copy dummy data worksheet "multi_figure" if data is for multiple observations / "single_figure" if for single
 	b. Replace dummy data with your own data, keeping column titles the same 
