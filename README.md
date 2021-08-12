@@ -1,7 +1,7 @@
 # WaterType-Diagrams
 Created by Jack Beard, 12/08/2021
 
-R project and input excel sheet to implement water quality diagrams from the paper "Four new ecohydrologically relevant water quality diagrams" (Schot et al.)
+R project and input excel sheet to implement water quality diagrams described in the forthcoming paper "Four new ecohydrologically relevant water quality diagrams" (Schot et al.)
 
 # Workflow:
 1. Download this folder and unzip into a directory of your choosing
