@@ -17,6 +17,8 @@ R project and input excel sheet to implement water quality diagrams described in
 6. In the R script, change the inputs in the "USER INPUTS" section as such:
 	a. Change "plot_worksheets" to same names as the data sheets created in step 3
 	b. Change "units" to data input units
+	c. Choose which figures to plot (Stiff/Maucha/Sector)
+	d. Choose if you want figures to plot as individual images (combine = T) or in single row format (combine = F)
 7. Run R script by pressing "Source" in top right of RStudio
 8. Check figures in "figures_out" directory
 9. If figures are stretched/non-circular, alter "xscale_sector"/"xscale_maucha" parameters and run again!
