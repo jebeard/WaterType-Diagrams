@@ -126,6 +126,9 @@ data_max <- ceiling(max(data_nonas)) + 0.5
 
 if (Stiff_A) {
   
+  dir_out <- paste0("./figures_out/Stiff_A/")
+  if(!dir.exists(dir_out)){dir.create(dir_out, recursive = T)} 
+  
   if(combine){
     
     # setting up pdf
@@ -172,6 +175,9 @@ if (Stiff_A) {
 
 
 if (Stiff_B) {
+  
+  dir_out <- paste0("./figures_out/Stiff_B/")
+  if(!dir.exists(dir_out)){dir.create(dir_out, recursive = T)} 
   
   if(combine){
     
@@ -221,6 +227,9 @@ if (Stiff_B) {
 #------------------------------------------------------------------------------------------------------------
 
 if (Sector) {
+  
+  dir_out <- paste0("./figures_out/Sector/")
+  if(!dir.exists(dir_out)){dir.create(dir_out, recursive = T)} 
   
   # defining plot limits according to data ranges
   maxdata <- max(sqrt(data_nonas))
@@ -290,6 +299,9 @@ if (Sector) {
 #------------------------------------------------------------------------------------------------------------
 
 if (Maucha) {
+  
+  dir_out <- paste0("./figures_out/Maucha/")
+  if(!dir.exists(dir_out)){dir.create(dir_out, recursive = T)} 
   
   # defining plot limits according to data ranges
   maxdata <- max(sqrt(data_nonas))/2.5
