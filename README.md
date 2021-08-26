@@ -35,4 +35,5 @@ Plotting scripts created by Mike Silberbauer, adapted by Jack Beard. Workflow by
 
 # Relevant references
 Pascal version of the Maucha diagram: https://github.com/MikeSilberbauer/maucha-ionic-diagram
+
 Silberbauer, M., 2020. Re ReScience challenge: Geographical Trends in the Water Chemistry of Wetlands in the South-Western Cape Province, South Africa. Rescience C, 6.  https://zenodo.org/record/3996198/files/article.pdf (10.5281/ZENODO.3996197). 
