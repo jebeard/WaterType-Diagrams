@@ -1,7 +1,7 @@
 # WaterType-Diagrams
-Plotting scripts created by Mike Silberbauer, adapted by Jack Beard. Workflow by Jack Beard.
-
 R project and input excel sheet to implement water quality diagrams described in the forthcoming paper "Four new ecohydrologically relevant water quality diagrams" (Schot et al.)
+
+Plotting scripts created by Mike Silberbauer, adapted by Jack Beard. Workflow by Jack Beard.
 
 # Workflow:
 1. Download this folder and unzip into a directory of your choosing
