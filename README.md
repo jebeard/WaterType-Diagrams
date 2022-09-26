@@ -1,8 +1,10 @@
 # WaterType-Diagrams
 R project and input excel sheet to implement water quality diagrams described in the paper:
+
 Schot, P., Beard, J., Hissink, R., Silberbauer, M., & Griffioen, J. (2022). Adapting classical water quality diagrams for ecohydrological and policy applications. Journal of Hydrology X, 100137.
 
 For the full paper see here:
+
 https://www.sciencedirect.com/science/article/pii/S2589915522000190?via%3Dihub
 
 Plotting scripts created by Mike Silberbauer, adapted by Jack Beard. Workflow by Jack Beard.
